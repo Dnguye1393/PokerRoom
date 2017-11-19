@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PokerRoom/src/main/Java&apos; to &apos;java&apos;" description="Rename resource &apos;Java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/Java" name="java" stamp="1510892961946" updateReferences="true"/>
+</session>

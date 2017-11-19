@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout resource="/PokerRoom/src/main/webapp/WEB-INF/web.xml">
+ <TreeFormPage>
+  <Memento type="FileWebApp">
+   <Memento collapsed="false" type="Web Descriptor 2.3"/>
+   <Memento collapsed="false" type="Context Params"/>
+   <Memento collapsed="false" type="Advanced"/>
+  </Memento>
+  <Memento type="">
+   <Memento collapsed="false" type="Properties Editor"/>
+  </Memento>
+  <Memento type="WebAppServlet">
+   <Memento collapsed="false" type="Servlet"/>
+   <Memento collapsed="false" type="Init Params"/>
+   <Memento collapsed="false" type="Security Roles"/>
+   <Memento collapsed="false" type="Advanced"/>
+  </Memento>
+  <Memento type="FileWebApp24">
+   <Memento type="Web Descriptor 2.4"/>
+   <Memento type="Context Params"/>
+   <Memento type="Advanced"/>
+  </Memento>
+ </TreeFormPage>
+</Layout>
